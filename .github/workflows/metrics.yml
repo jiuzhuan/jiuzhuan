@@ -28,6 +28,7 @@ jobs:
           user: jiuzhuan
           template: classic
           base: ""
+          config_display: large
           config_timezone: Asia/Shanghai
           plugin_code: yes
           plugin_code_days: 3
@@ -42,6 +43,7 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
+          plugin_habits_trim: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -49,7 +51,9 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 8
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 12
+          plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
@@ -58,11 +62,8 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved,skills
-          plugin_leetcode_user: .user.login
+          plugin_leetcode_sections: solved
+          plugin_leetcode_user: jiu-zhuan
           plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: https://jiuzhuan.me/domain-repository/
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
