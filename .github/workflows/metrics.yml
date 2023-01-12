@@ -69,7 +69,7 @@ jobs:
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
-          plugin_leetcode_user: leetcode-cn.com/u/jiu-zhuan/
+          plugin_leetcode_user: a459637790@gmail.com
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: https://jiuzhuan.me/domain-repository/
