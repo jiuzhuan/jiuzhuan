@@ -29,6 +29,11 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Shanghai
+          plugin_code: yes
+          plugin_code_days: 3
+          plugin_code_lines: 12
+          plugin_code_load: 400
+          plugin_code_visibility: public
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
@@ -57,3 +62,7 @@ jobs:
           plugin_leetcode_user: .user.login
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://jiuzhuan.me/domain-repository/
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
