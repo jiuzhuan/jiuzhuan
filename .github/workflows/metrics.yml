@@ -59,7 +59,7 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved, skill
+          plugin_leetcode_sections: solved, skills
           plugin_leetcode_user: jiuzhuan
           
           plugin_pagespeed: yes
