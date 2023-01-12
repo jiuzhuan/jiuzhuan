@@ -28,6 +28,7 @@ jobs:
           user: jiuzhuan
           template: classic
           base: ""
+          config_order: pagespeed, leetcode, habits, languages, isocalendar, topics
           config_display: large
           config_timezone: Asia/Shanghai
           plugin_habits: yes
