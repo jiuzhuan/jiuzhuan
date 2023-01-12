@@ -54,5 +54,4 @@ jobs:
           plugin_leetcode_sections: solved
           plugin_leetcode_user: .user.login
           plugin_pagespeed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: http://42.192.53.231:8080/
