@@ -42,27 +42,27 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: helf-year
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_analysis_timeout: 500
+          plugin_languages_analysis_timeout_repositories: 300
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_indepth: yes
           plugin_languages_limit: 17
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 30
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_leetcode: yes
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
+          plugin_leetcode_sections: solved, skill
           plugin_leetcode_user: jiuzhuan
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: https://jiuzhuan.me/domain-repository/
           plugin_topics: yes
-          plugin_topics_limit: 22
+          plugin_topics_limit: 24
           plugin_topics_mode: labels
           plugin_topics_sort: stars
