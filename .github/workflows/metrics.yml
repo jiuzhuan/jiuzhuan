@@ -64,7 +64,7 @@ jobs:
           
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_url: https://github.com/jiuzhuan
+          plugin_pagespeed_url: https://jiuzhuan.github.io/
           
           plugin_topics: yes
           plugin_topics_limit: 24
