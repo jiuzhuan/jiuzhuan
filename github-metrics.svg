@@ -184,8 +184,8 @@
                             <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">google</div>
                             <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
                             <div class="label" title="Vue.js is a JavaScript framework for building interactive web applications.">vue.js</div>
-                            <div class="label" title="The terminal is an interface in which you can type and execute text-based commands.">terminal</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
+                            <div class="label" title="The terminal is an interface in which you can type and execute text-based commands.">terminal</div>
                             <div class="label" title="Kubernetes is an open source system for automating deployment, scaling, and management of containerized applications.">kubernetes</div>
                             <div class="label" title="Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.">jupyter notebook</div>
                             <div class="label" title="Tensorflow, macOS, MongoDB, Kotlin, npm, Spring Boot, Telegram, GraphQL, Markdown, NoSQL, X (Twitter), Maven, Gradle, Clojure">and 14 more...</div>
