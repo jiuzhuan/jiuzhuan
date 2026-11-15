@@ -44,9 +44,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.8411192214111922 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="1.8393291200777833 329"/>
                                     <text x="60" y="50" dominant-baseline="central">23</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4110</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4114</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -55,25 +55,25 @@
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/975</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/976</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.4599254426840634 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.45949720670391064 329"/>
                                     <text x="60" y="50" dominant-baseline="central">3</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2146</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2148</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.653185035389281 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.646464646464647 329"/>
                                     <text x="60" y="50" dominant-baseline="central">20</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/989</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/990</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -183,8 +183,8 @@
                             <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
                             <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">google</div>
                             <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
-                            <div class="label" title="Vue.js is a JavaScript framework for building interactive web applications.">vue.js</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
+                            <div class="label" title="Vue.js is a JavaScript framework for building interactive web applications.">vue.js</div>
                             <div class="label" title="The terminal is an interface in which you can type and execute text-based commands.">terminal</div>
                             <div class="label" title="Kubernetes is an open source system for automating deployment, scaling, and management of containerized applications.">kubernetes</div>
                             <div class="label" title="npm is a package manager for JavaScript included with Node.js.">npm</div>
